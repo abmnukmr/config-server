@@ -20,6 +20,6 @@ eureka:
 application:
   greeting: Configuration updated! Hello from Listing Service is.
   feature-toggle: false # Change this to false  
-  name: Hello form food listing page [Updated 2.0]
+  name: Hello form food listing page [Updated 3.0]
       
 
