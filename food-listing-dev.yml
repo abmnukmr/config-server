@@ -17,3 +17,8 @@ eureka:
     service-url:
       defaultZone: http://localhost:8761/eureka/
 
+application:
+  greeting: Configuration updated! Hello from Listing Service.
+  feature-toggle: false # Change this to false      
+      
+
